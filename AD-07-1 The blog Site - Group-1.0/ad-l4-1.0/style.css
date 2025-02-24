@@ -3,7 +3,38 @@ html {
     width: 100%;
   }
 <<<<<<< HEAD
+<<<<<<< HEAD
   /* Estilos para el menú de navegación */
+=======
+ 
+.contacto body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+.containerc {
+    max-width: 600px;
+    margin: 50px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+h1 {
+    color: #8800ff;
+}
+.contact-info {
+    margin-top: 20px;
+}
+.contact-info p {
+    margin: 10px 0;
+}
+  
+/* Estilos para el menú de navegación */
+>>>>>>> b39e059cb13e4d1339a1cbf8c621a8fc700cee8d
   .navbar {
     position: fixed;
     top: 0;
