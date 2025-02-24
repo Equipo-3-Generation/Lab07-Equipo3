@@ -5,7 +5,7 @@ html {
 <<<<<<< HEAD
 <<<<<<< HEAD
   /* Estilos para el menú de navegación */
-=======
+
  
 .contacto body {
     font-family: Arial, sans-serif;
@@ -70,7 +70,7 @@ h1 {
 .navbar a:hover {
     background-color: #575757;
 }
-=======
+
   footer {
     background-color: #5ea0d6c4; /* Color de fondo oscuro */
     color: #fff; /* Texto en blanco */
@@ -97,4 +97,4 @@ footer a {
 footer a:hover {
     text-decoration: underline; /* Subrayado al pasar el mouse */
 }
->>>>>>> andrea
+
